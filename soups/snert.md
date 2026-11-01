@@ -5,3 +5,4 @@
 - Onions
 - Hema rookworst
 - Leek
+- Celery
